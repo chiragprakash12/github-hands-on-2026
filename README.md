@@ -12,9 +12,9 @@ Topic:- Introduction to GitHub
 GitHub Username:- athriyamallya
 
 Group 3
-Name:-
-Topic:-
-GitHub Username:-
+Name:-Nihal Acharya
+Topic:-Intro
+GitHub Username:-nihalacharya972-prog
 
 Group 4
 Name:-
